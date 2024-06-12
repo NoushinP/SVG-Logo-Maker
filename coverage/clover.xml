@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1718219646726" clover="3.2.0">
+  <project timestamp="1718219646726" name="All files">
+    <metrics statements="21" coveredstatements="10" conditionals="3" coveredconditionals="0" methods="9" coveredmethods="3" elements="33" coveredelements="13" complexity="0" loc="21" ncloc="21" packages="2" files="2" classes="2"/>
+    <package name="svg-logo-maker">
+      <metrics statements="13" coveredstatements="5" conditionals="3" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.js" path="C:\Users\noush\bootcamp\homework\svg-logo-maker\index.js">
+        <metrics statements="13" coveredstatements="5" conditionals="3" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="48" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="svg-logo-maker.lib">
+      <metrics statements="8" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+      <file name="shapes.js" path="C:\Users\noush\bootcamp\homework\svg-logo-maker\lib\shapes.js">
+        <metrics statements="8" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

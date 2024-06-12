@@ -1,7 +1,6 @@
-build a Node.js command-line application that takes in user input to generate a logo and save it as an [SVG file]
+Build a Node.js command-line application that takes in user input to generate a logo and save it as an [SVG file]
 
-
-GIVEN a command-line application that accepts user input
+"GIVEN a command-line application that accepts user input
 WHEN I am prompted for text
 THEN I can enter up to three characters,
 
@@ -19,11 +18,14 @@ THEN an SVG file is created named `logo.svg`,
 AND the output text "Generated logo.svg" is printed in the command line,
 
 WHEN I open the `logo.svg` file in a browser
-THEN I am shown a 300x200 pixel image that matches the criteria I entered
+THEN I am shown a 300x200 pixel image that matches the criteria I entered"
 
+Walkthrough Link: https://youtu.be/RGPlZWteiL4
+Repo Link: https://github.com/NoushinP/SVG-Logo-Maker.git
 
 citatation:
 https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
 https://www.npmjs.com/package/jest
 https://www.npmjs.com/package/inquirer/v/8.2.4
-# SVG-Logo-Maker
+https://www.w3schools.com/graphics/svg_intro.asp
+https://www.npmjs.com/package/shapes
